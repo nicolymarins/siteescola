@@ -1,4 +1,8 @@
-header {background-color: blueviolet;
+*{
+   margin: 0;
+   padding: O;
+}
+.cabecalho {background-color: rgb(226, 55, 43);
 color: rgb(0, 0, 0);
 display: flex;
 justify-content: space-around;
@@ -9,7 +13,6 @@ padding: 24px 0;}
   margin: 0 16px;
   padding: 100px 0;
   font-size: 40px;}
-
 h1{
     margin: 0 100px;
     padding: 78px 0;
@@ -19,6 +22,13 @@ li
     margin: 0 16px;
     padding: 24px 0;
     font-size: 24px;}
-    .escola-imagem{
+.escola-imagem{
         width: 20%;
+    }
+    .escola {
+      background-image: linear-gradient(red,black);
+      color:white;
+      display: flex;
+      justify-content: center;
+      
     }

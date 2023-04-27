@@ -57,5 +57,13 @@ li
 .estudante-todos {
   display: grid;
   grid-template-columns: 25% 25% 25% 25%;
-
+}
+footer{ 
+  background-color: rgb(218, 60, 60) ;
+  color: rgb(29, 29, 28);
+  text-align: center;
+}
+.h2{
+  display: grid;
+  size: 25%;
 }
